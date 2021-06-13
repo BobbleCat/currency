@@ -15,5 +15,4 @@ public class CurrencyRatesService {
         // Call the currency rates client
         return new CurrencyRates();
     }
-
 }
